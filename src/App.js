@@ -13,7 +13,7 @@ function App() {
     <Navbar></Navbar>
     <Switch>
       <Route exact path="/">
-      <Form heading="Enter text to analyze below"></Form>
+      <Form heading="Hardik Heregit "></Form>
       </Route>
       <Route exact path="/about">
          <About></About>
